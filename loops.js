@@ -21,11 +21,9 @@ function whileLoop(n){
   return "done"
 }
 
-function doWhileLoop(num) {
-function incrementVariable (){
-  return "I run once regarless"
-}
+//function doWhileLoop(num) {
+//function incrementVariable (){
+//  return "I run once regarless"
 
-do{
-  num
-}
+
+//do{

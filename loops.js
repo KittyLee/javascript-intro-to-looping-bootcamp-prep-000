@@ -22,8 +22,8 @@ function whileLoop(n){
 }
 
 function doWhileLoop(num) {
-  i = i + 1;
- return i;
+  num = i + 1;
+ return num;
 }
 
 do {
